@@ -1,0 +1,6 @@
+{
+  "name": "নাজরুল ইসলাম মণ্ডল - সংসদ সদস্য, ৫৬ রাজশাহী-৫",
+  "description": "নাজরুল ইসলাম মণ্ডল (সংসদ সদস্য, ৫৬ রাজশাহী-৫ - দুর্গাপুর–পুঠিয়া)-এর ডিজিটাল সংসদীয় কার্যালয় ও জনসেবা প্ল্যাটফর্ম।",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
